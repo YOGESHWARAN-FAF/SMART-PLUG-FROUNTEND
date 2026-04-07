@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Smart Plug App</string>
+    <string name="title_activity_main">Smart Plug App</string>
+    <string name="package_name">com.yogeshwaran.smartplug</string>
+    <string name="custom_url_scheme">com.yogeshwaran.smartplug</string>
+</resources>
